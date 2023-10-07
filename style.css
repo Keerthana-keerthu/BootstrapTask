@@ -1,0 +1,24 @@
+.carousel-caption{
+    font-family: 'Croissant One', cursive;
+}
+.carousel-item img{
+    min-height: 100vh;
+    background-size: cover;
+}
+
+.welcome{
+    font-family: 'Dancing Script', cursive;
+
+}
+.nav-link:hover {
+    background-color: rgb(255, 255, 255,.1);
+    backdrop-filter: blur(25px);
+    border-radius: 20px ;
+    padding: 10px;
+}
+.nav-link{
+    font-family: 'Croissant One', cursive;
+}
+.about{
+    font-family: 'Croissant One', cursive;
+}
